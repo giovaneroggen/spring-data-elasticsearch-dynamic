@@ -37,7 +37,7 @@ public class ProductConfiguration{
 }
 ```
 
-####  When a class is annotated with @DynamicIndex/@DynamicType, it can only be used if the index/type is defined in context
+####  When a class is annotated with @DynamicIndex or @DynamicType, it can only be used if the index or type are defined in context
 ##### Use this code below in order to set wich indexName(organization) and type(store) you are working
 *  DynamicIndexAndTypeContextHolder.getInstance().setIndexAndType(`organizationId`, `storeId`); 
 
