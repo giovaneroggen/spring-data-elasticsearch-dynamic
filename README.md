@@ -1,4 +1,4 @@
-Spring Data Elasticsearch
+Spring Data Elasticsearch Dynamic
 =========================
 
 Spring Data implementation for ElasticSearch Dynamic
